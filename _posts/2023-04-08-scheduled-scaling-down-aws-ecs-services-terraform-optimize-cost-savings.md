@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automating Scheduled Scaling Down of AWS ECS Services with Terraform to Optimize Cost Savings"
+title: "Scheduled Scaling Down of AWS ECS Services with Terraform to Optimize Cost Savings"
 date: 2023-04-08 11:00:00 +0700
 categories: [Terraform, AWS]
 tags: [terraform, aws]
